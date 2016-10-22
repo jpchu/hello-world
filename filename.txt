@@ -1,1 +1,3 @@
-ECHO is on.
+[] Make battle status fully operational
+
+Here'a another change
